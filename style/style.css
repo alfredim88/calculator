@@ -32,6 +32,16 @@
   margin-top: 25px;
 }
 
+p {
+    font-size: 50px;
+    }
+
+.align {
+position: relative;
+top: -50%;
+text-align: center;
+}
+
 .button3 {
   background-color: #ffd27f;
 }
@@ -48,10 +58,10 @@
   background-color: #ffd27f;
 }
 
-.button14 {
+#equal {
   background-color: 	#FFA500;
 }
 
-.button12 {
-    background-color: 	#4682B4;
+#clear {
+  background-color: #4682B4;
 }
