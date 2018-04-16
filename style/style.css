@@ -28,6 +28,11 @@
   background-color: grey;
 }
 
+.calcButton:hover {
+  background-color: darkGrey;
+  cursor: pointer;
+}
+
 #buttonsContainer {
   display: flex;
   flex-wrap: wrap;
@@ -36,6 +41,7 @@
 
 p {
     font-size: 50px;
+    height: auto;
     }
 
 .align {
@@ -64,6 +70,14 @@ text-align: center;
   background-color: 	#FFA500;
 }
 
+#equal:hover{
+  background-color: #be5e00;
+}
+
 #clear {
   background-color: #4682B4;
+}
+
+#clear:hover {
+  background-color: #0000cc;
 }
